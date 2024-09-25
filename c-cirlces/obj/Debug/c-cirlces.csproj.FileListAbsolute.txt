@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-circles\c-cirlces\bin\Debug\c-cirlces.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-circles\c-cirlces\bin\Debug\c-cirlces.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-circles\c-cirlces\bin\Debug\c-cirlces.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-circles\c-cirlces\obj\Debug\c-cirlces.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-circles\c-cirlces\obj\Debug\c-cirlces.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-circles\c-cirlces\obj\Debug\c-cirlces.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-circles\c-cirlces\obj\Debug\c-cirlces.pdb
